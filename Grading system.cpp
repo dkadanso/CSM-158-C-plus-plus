@@ -12,7 +12,7 @@ int main()
     char grade3 = 'D';
     char grade4 = 'F';
     char grade;
-
+    cout<<"This program is to take scores of students at KNUST and allocate their respective grades"<<endl;
     cout << "Enter number of Students" << endl;
     cin >> NumStudents;
 
